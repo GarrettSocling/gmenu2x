@@ -1,0 +1,5 @@
+title=PICO-8
+icon=skin:icons/tv.png
+exec=/usr/bin/pico8
+clock=56
+wrapper=true

@@ -498,6 +498,7 @@ Thanks goes to...\n\
 ----\n\
 NoidZ for his gp2x' buttons graphics\n\
 Pickle for the initial Wiz and Caanoo ports\n\
+NeoTheFox for Pocket C.H.I.P. port\n\
 \n\
  Beta testers\n\
 ----\n\
