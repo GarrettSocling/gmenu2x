@@ -603,8 +603,8 @@ void GMenu2X::readConfig() {
 	evalIntConf( &confInt["videoBpp"], 16, 8,32 );
 
 	if (confStr["tvoutEncoding"] != "PAL") confStr["tvoutEncoding"] = "NTSC";
-	resX = constrain( confInt["resolutionX"], 320,1920 );
-	resY = constrain( confInt["resolutionY"], 240,1200 );
+	resX = constrain( confInt["resolutionX"], 480,1920 );
+	resY = constrain( confInt["resolutionY"], 272,1200 );
 }
 
 void GMenu2X::writeConfig() {
