@@ -26,7 +26,7 @@ Controls
 
 Contacts
 --------
-Copyright (c) 2006-2010 `Massimiliano Torromeo <mailto:massimiliano.torromeo@gmail.com>`_
-Porting to C.H.I.P. 2016 'NeoTheFox <mailto:soniczerops@gmail.com>'_
+Copyright (c) 2006-2010 `Massimiliano Torromeo <mailto:massimiliano.torromeo@gmail.com>`_ 
+Porting to C.H.I.P. 2016 `NeoTheFox <mailto:soniczerops@gmail.com>`_
 
 Visit the homepage at http://mtorromeo.github.com/gmenu2x for more info.
