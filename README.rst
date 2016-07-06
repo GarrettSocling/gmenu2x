@@ -1,14 +1,12 @@
 Introduction
 ------------
-`GMenu2X <http://mtorromeo.github.com/gmenu2x>`_ is a replacement for the official frontend for the GP2X released under the GNU GPL license v2.
+`GMenu2X <https://github.com/NeoTheFox/gmenu2x>`_ is a replacement for the official frontend for the GP2X released under the GNU GPL license v2.
+This is a port of original GMenu2X for Pocket C.H.I.P.
 
 Installation
 ------------
-Copy the file autorun.gpu and the directory gmenu2x/ to the root of your sd card.
 
-Verify that the autorun option in the standard GP2X interface is enabled.
-
-(Re)Boot your GP2X and enjoy `GMenu2X <http://mtorromeo.github.com/gmenu2x>`_.
+TBD
 
 Controls
 --------
@@ -29,5 +27,6 @@ Controls
 Contacts
 --------
 Copyright (c) 2006-2010 `Massimiliano Torromeo <mailto:massimiliano.torromeo@gmail.com>`_
+Porting to C.H.I.P. 2016 'NeoTheFox <mailto:soniczerops@gmail.com>'_
 
 Visit the homepage at http://mtorromeo.github.com/gmenu2x for more info.
