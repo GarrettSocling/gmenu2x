@@ -1,7 +1,5 @@
 title=System
-description=Configure options from the original frontend
+description=Original C.H.I.P.'s launcher
 icon=skin:icons/configure.png
-exec=/usr/gp2x/gp2xmenu
-params=--disable-autorun --enable-terminate --view-system
-clock=58
-wrapper=true
+exec=/usr/bin/pocket-home
+wrapper=false

@@ -1,5 +1,4 @@
 title=Browser
 icon=skin:icons/browser.png
 exec=/usr/bin/sensible-browser
-clock=56
 wrapper=true

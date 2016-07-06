@@ -1,6 +1,6 @@
 title=Exit
-description=Exit GMenu2X to the official frontend
+description=Exit gmenu2x
 icon=skin:icons/exit.png
 exec=/usr/bin/gmenu2x
 params=--disable-autorun
-clock=56
+clock=31

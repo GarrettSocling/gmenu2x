@@ -1,4 +1,4 @@
-title=Music
+title=SunVox
 icon=skin:icons/music.png
 exec=/usr/bin/sunvox
-clock=75
+wrapper=true

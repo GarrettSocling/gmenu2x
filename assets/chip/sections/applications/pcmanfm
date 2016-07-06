@@ -1,0 +1,6 @@
+title=PCManFM
+description=File manager
+icon=skin:icons/default.png
+exec=/usr/bin/pcmanfm
+params=/home
+wrapper=true

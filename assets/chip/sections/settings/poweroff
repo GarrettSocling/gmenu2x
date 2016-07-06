@@ -3,4 +3,3 @@ description=Turn off C.H.I.P.
 icon=skin:icons/exit.png
 exec=/bin/systemctl
 params=poweroff
-clock=56
